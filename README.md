@@ -8,19 +8,35 @@ In this project, I will build a transformer-based machine learning system.
 
 ## Setup
 
+Wed 17 Jan, 2024
+
 ## Architecture
+
+Fri 19 Jan, 2024
 
 ## Training Data
 
+Sun 21 Jan, 2024
+
 ## Model
+
+Wed 24 Jan, 2024
 
 ## Indexing
 
+Fri 26 Jan, 2024
+
 ## Lookup
+
+Sat 27 Jan, 2024
 
 ## UI
 
+Sun 28 Jan, 2024
+
 ## Production
+
+Mon 29 Jan, 2024
 
 ## Resources
 
