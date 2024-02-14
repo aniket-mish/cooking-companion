@@ -2,7 +2,7 @@
 
 Stacked is a side project that I am working on. It's an app that recommends tv shows and movies.
 
-I followed the development of viberary, which is a project by @vboykis in 2023, and recently read her blog post [retro on viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/), that inspired me to build something similar. This is me building the same stuff (maybe a different tech stack) to solidify my understanding of a production-grade system.
+In 2023, I followed and enjoyed the development of Viberary, a project by [vboykis](https://twitter.com/vboykis). Her blog post [retro on viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/) inspired me to build something similar. I am building stacked to solidify my understanding of a production-grade system.
 
 In this project, I will build a transformer-based machine learning system.
 
