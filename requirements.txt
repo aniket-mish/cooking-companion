@@ -2,3 +2,5 @@ pandas
 duckdb
 transformers
 sentence-transformers
+loguru
+pendulum
