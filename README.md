@@ -1,10 +1,10 @@
 # Stacked
 
-![](assets/food-banner.png)
+![](assets/food-banner.jpg)
 
 ## Introduction
 
-Stacked is a side project that I am working on. It's an app that recommends recipes. I always struggle to find something to cook. Stacked is a search engine. It finds recipes based on your mood, similar to "Just ask siri" in Apple Music.
+Stacked is a side project that I am working on. It's an app that recommends recipes. I always struggle to find something to cook. Stacked is a search engine. It finds recipes based on your mood, similar to "Just Ask Siri" in Apple Music.
 
 <figure align="center">
   <img src="assets/apple-music.png" />
